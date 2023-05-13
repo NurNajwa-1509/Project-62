@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "pro-c60",
+    "slug": "snack-c2e0e2c5-0e03-445b-8d38-d3b6c4cc0faf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.najwahumaira.snackc2e0e2c50e03445b8d38d3b6c4cc0faf"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fef2cee3-ba98-43c0-ae64-c3740661c06b"
+      }
+    }
+  }
+}
